@@ -1,0 +1,41 @@
+#nav {
+    background-color: darkgrey;
+    justify-content: flex-end;
+}
+
+#botonverde {
+ color: rgb(117, 190, 6);
+}
+
+#botones {
+    color: grey;
+}
+
+#comprar {
+    color: white;
+    background-color: rgb(117, 190, 6);
+    border: none;
+}
+
+#quiero{
+    border: 5px;
+    border-color: white;
+}
+#bot {
+
+    padding: 2px;
+    font-size: smaller;
+    font-weight: bold;
+}
+
+#fondo{
+
+    padding-bottom: 148px;
+}
+
+#enviar {
+    background-color: rgb(117, 190, 6);
+    color: white;
+    border: none;
+    justify-content: center;
+}
